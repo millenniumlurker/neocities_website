@@ -1,0 +1,63 @@
+🌟 WEEK 1: Structure and Corrections
+
+    Fix Navigation Links — Replace repeated “Gallery” text with correct page names (e.g., Blog, About, etc.).
+
+    Fix the Favicon MIME type — type="image/x-icon" or use PNG/SVG as needed.
+
+    Add Title to Each Page — Make sure each linked page (home, gallery, etc.) has its own <title>.
+
+    Write and Style Your <section> Content — Add a small personal message or intro for now.
+
+    Improve Footer — Add basic footer content (e.g., © Sara Leite, year, email link).
+
+    Check Mobile Responsiveness — View on a phone and tweak styles if needed.
+
+    Add alt text to all images properly — Make it meaningful (for accessibility and SEO).
+
+🎨 WEEK 2: Style and Identity
+
+    Customize style.css — Begin with fonts, colors, and layout tweaks to reflect your aesthetic.
+
+    Add a Personal Logo or Signature Font — Use a free font from Google Fonts or a hand-drawn logo.
+
+    Create a Consistent Color Palette — Choose 3-5 main colors and stick to them across pages.
+
+    Style the Navigation Bar — Add hover effects or icons to make it feel more alive.
+
+    Use CSS Grid or Flexbox — Make sure layout is flexible and clean.
+
+    Make the Header Image Responsive — So it scales gracefully on all screen sizes.
+
+    Add a Background or Texture — Optional: Soft gradient, pattern, or subtle image.
+
+🖋️ WEEK 3: Content Creation
+
+    Write the “About” Page — A short paragraph about who you are and what Millennium Lurker means.
+
+    Create a Blog Entry — Even one sentence or a drawing with thoughts counts.
+
+    Curate Your Gallery — Add 3–5 artworks or photos you’re proud of.
+
+    Set Up the “Shrines” Page — Pick one topic/fandom and make a little shrine page.
+
+    Build a Simple “Site Profile” — Like an old-school “Site Info” with version, credits, tools used.
+
+    Add Descriptions/Captions to Images — Especially in Gallery/Shrines.
+
+    Start a “Changelog” Section — Document updates in your voice, like a dev log or diary.
+
+🛠️ WEEK 4: Polish and Features
+
+    Optimize Images for Web — Compress or convert to WebP for faster load.
+
+    Add Basic JavaScript (optional) — Like a theme toggle (light/dark mode).
+
+    Link Socials or Contact Page — Even if it’s just email or your Instagram art.
+
+    Add Meta Tags for Sharing — For Twitter/Open Graph (when sharing links).
+
+    Try Basic Analytics (optional) — Use privacy-friendly options like Plausible or Fathom.
+
+    Validate Your HTML/CSS — Use W3C validators and fix any warnings.
+
+    Create a 404 Page — Make it fun, not just “Page Not Found.”
